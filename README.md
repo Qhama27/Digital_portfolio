@@ -44,8 +44,8 @@ Welcome to my digital portfolio, my name is Qhama Dyushu, a student pursuing a D
 ## Personality Assessment
 
 ### Evidence
-- Personality test results (e.g., MBTI or DISC).
-- Peer feedback summaries.
+- Personality test results.
+-  [ View My CV ](./CV%20OF%20Sophumelela%20Silangulana.pdf)
 
 ### Reflection (STAR Technique)
 **Situation**: I wanted to understand my work style and personality in team environments.  
