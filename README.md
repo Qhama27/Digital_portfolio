@@ -4,7 +4,7 @@
 # Wellcome to my Digital Portfolio
 # Qhama Dyushu
 
-<a href="https://[linkedin.com](https://www.linkedin.com/in/qhama-dyushu-63b187234/)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/qhama-dyushu-63b187234/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 Welcome to my digital portfolio, my name is Qhama Dyushu, a student pursuing a Diploma degree in Information Technology doing my 3rd year. This digital portfolio, developed as part of the Work Readiness Training Programme, showcases my personal and professional growth through structured reflections and key artefacts. It highlights how I’ve applied the STAR technique to demonstrate my skills, experiences, and readiness to thrive in the workplace.
 
