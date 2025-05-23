@@ -89,6 +89,7 @@ Welcome to my digital portfolio, my name is Qhama Dyushu, a student pursuing a D
 
 - `artefacts/` – Includes artefacts such as CV, personality assessments, and skills audits.
 - `reflections/` – Detailed reflections using the STAR technique.
+- [My reflections are from LinkedIn courses](https://www.linkedin.com/learning/learning-git-and-github-23011330/learning-markdown?u=2256146)
 - `README.md` – This overview of my portfolio.
 
 ---
