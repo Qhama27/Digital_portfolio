@@ -96,6 +96,6 @@ Welcome to my digital portfolio, my name is Qhama Dyushu, a student pursuing a D
 
 This portfolio represents a comprehensive journey of self-discovery and skill development. Through career counselling, self-assessments, and guided activities, I have grown in confidence, self-awareness, and professional readiness. I am proud of my progress and excited about the opportunities ahead.
 
-> _"Success is where preparation and opportunity meet."_ – Bobby Unser
+> _"The future belongs to those who believe in the beauty of their dreams." – Eleanor Roosevelt
 
 ---
