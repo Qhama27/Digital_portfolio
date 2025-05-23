@@ -1,13 +1,12 @@
-<p align="right">
-  <img src="images/Whatsapp.jpg" alt="Qhama Dyushu Profile Picture" width="150" style="border-radius: 50%;">
-</p>
 
-# Wellcome to my Digital Portfolio
----
+# My Digital Portfolio
+
 # Qhama Dyushu
 ---
 
 <a href="https://www.linkedin.com/in/qhama-dyushu-63b187234/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+
 
 Welcome to my digital portfolio, my name is Qhama Dyushu, a student pursuing a Diploma degree in Information Technology doing my 3rd year. This digital portfolio, developed as part of the Work Readiness Training Programme, showcases my personal and professional growth through structured reflections and key artefacts. It highlights how I’ve applied the STAR technique to demonstrate my skills, experiences, and readiness to thrive in the workplace.
 
@@ -15,9 +14,10 @@ Welcome to my digital portfolio, my name is Qhama Dyushu, a student pursuing a D
 
 ## Career Counselling
 
-- Evidence
--- Uploaded documentation from career guidance sessions.
--- Summary of discussions with a career coach.
+### Evidence
+
+- Uploaded documentation from career guidance sessions.
+- Summary of discussions with a career coach.
 
 ### Reflection (STAR Technique)
 **Situation**: I was uncertain about my career path within the IT field.  
