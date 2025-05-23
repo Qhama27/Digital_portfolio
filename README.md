@@ -17,7 +17,7 @@ Welcome to my digital portfolio, my name is Qhama Dyushu, a student pursuing a D
 ### Evidence
 
 - Uploaded documentation from career guidance sessions.
-- [ View My  Skills and Interests ](Skills_and_intr.PNG)
+- [ View My  Career Counselling ](Career_Dev.PNG)
 
 ### Reflection (STAR Technique)
 **Situation**: I was uncertain about my career path within the IT field.  
