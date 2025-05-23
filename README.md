@@ -1,5 +1,5 @@
 <p align="right">
-  <img src="images/WhatsApp_Image 2025-05-23 at 19.39.04_ffb689de.jpg" alt="Qhama Dyushu Profile Picture" width="150" style="border-radius: 50%;">
+  <img src="images/WhatsApp_Image.jpg" alt="Qhama Dyushu Profile Picture" width="150" style="border-radius: 50%;">
 </p>
 
 # My Digital Portfolio
