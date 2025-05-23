@@ -1,5 +1,5 @@
 <p align="right">
-  <img src="images/WhatsApp_Image.jpg" alt="WhatsApp_Image.jpg" width="150" style="border-radius: 50%;">
+  <img src="WhatsApp_Image.jpg" alt="WhatsApp_Image.jpg" width="150" style="border-radius: 50%;">
 </p>
 ![Profile Picture](images/WhatsApp_Image.jpg)
 
