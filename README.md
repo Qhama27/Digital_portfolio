@@ -1,10 +1,11 @@
+
+# My Digital Portfolio
+
 <p align="right">
   <img src="WhatsApp_Image.jpg" alt="WhatsApp_Image.jpg" width="150" style="border-radius: 50%;">
 </p>
 
-# My Digital Portfolio
-
-# Qhama Dyushu
+# Qhama Dyushu   
 ---
 
 <a href="https://www.linkedin.com/in/qhama-dyushu-63b187234/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
