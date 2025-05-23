@@ -31,7 +31,7 @@ Welcome to my digital portfolio, my name is Qhama Dyushu, a student pursuing a D
 
 ### Evidence
 - Results of my personal skills audit and interest inventory.
-- [ View My CV ](Personal_Assessment.PNG)
+- [ View My  Skills and Interests ](Skills_and_intr.PNG)
 
 ### Reflection (STAR Technique)
 **Situation**: I needed to identify my key skills and align them with relevant job roles.  
@@ -45,7 +45,7 @@ Welcome to my digital portfolio, my name is Qhama Dyushu, a student pursuing a D
 
 ### Evidence
 - Personality test results.
--  [ View My CV ](file:///C:/Users/user/Downloads/Qhama+Dyushu+CV+with+docs.pdf)
+-  [ View My Personality Assessment](Personal_Assessment.PNG)
 
 
 ### Reflection (STAR Technique)
@@ -59,7 +59,7 @@ Welcome to my digital portfolio, my name is Qhama Dyushu, a student pursuing a D
 ## Curriculum Vitae (CV)
 
 ### Evidence
-[ View My CV ](./CV%20OF%20Sophumelela%20Silangulana.pdf)
+[ View My CV ]()
 - Uploaded current version of my professional CV (see `artefacts/` folder).
 
 ### Reflection (STAR Technique)
@@ -74,7 +74,7 @@ Welcome to my digital portfolio, my name is Qhama Dyushu, a student pursuing a D
 
 ### Evidence
 - Screenshot of CV submission.
--  [ View My Subbmission ](./Cv%20OF%20submission.PNG)
+-  [ View My CV Submission ](Cv_submission.PNG)
 
 ### Reflection (STAR Technique)
 **Situation**: I was applying for internships and needed to submit my CV.  
