@@ -1,4 +1,6 @@
-
+<p align="right">
+  <img src="images/Whatsapp.jpg" alt="Qhama Dyushu Profile Picture" width="150" style="border-radius: 50%;">
+</p>
 
 # Wellcome to my Digital Portfolio
 ---
