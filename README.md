@@ -45,7 +45,7 @@ Welcome to my digital portfolio, my name is Qhama Dyushu, a student pursuing a D
 
 ### Evidence
 - Personality test results.
-Personal Assessment.PNG)
+-  [ View My CV ](file:///C:/Users/user/Downloads/Qhama+Dyushu+CV+with+docs.pdf)
 
 
 ### Reflection (STAR Technique)
