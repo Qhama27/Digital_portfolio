@@ -45,7 +45,7 @@ Welcome to my digital portfolio, my name is Qhama Dyushu, a student pursuing a D
 
 ### Evidence
 - Personality test results.
--  [ View My CV ](./Cv%20OF%20submission.PNG)
+
 
 ### Reflection (STAR Technique)
 **Situation**: I wanted to understand my work style and personality in team environments.  
@@ -72,7 +72,8 @@ Welcome to my digital portfolio, my name is Qhama Dyushu, a student pursuing a D
 ## CV Submission
 
 ### Evidence
-- Screenshot of CV submission to relevant job platforms or training programs.
+- Screenshot of CV submission.
+-  [ View My Subbmission ](./Cv%20OF%20submission.PNG)
 
 ### Reflection (STAR Technique)
 **Situation**: I was applying for internships and needed to submit my CV.  
