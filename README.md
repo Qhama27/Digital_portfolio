@@ -31,7 +31,7 @@ Welcome to my digital portfolio, my name is Qhama Dyushu, a student pursuing a D
 
 ### Evidence
 - Results of my personal skills audit and interest inventory.
-- [ View My CV ](Personal Assessment.PNG)
+- [ View My CV ](Personal_Assessment.PNG)
 
 ### Reflection (STAR Technique)
 **Situation**: I needed to identify my key skills and align them with relevant job roles.  
