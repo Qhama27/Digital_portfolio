@@ -1,3 +1,6 @@
+<p align="right">
+  <img src="images/Capture.jpg" alt="Qhama Dyushu Profile Picture" width="150" style="border-radius: 50%;">
+</p>
 
 # My Digital Portfolio
 
